@@ -7,5 +7,5 @@ After you finished installing the requirements write this code to launch the too
 
 python3 osintphonumber.py
 
-This tool is not traceable or trackable it is fully online and offline search their countries and their service provider by this tool. Thanks to K0lzSec, Ducky.Hax, @Lapsus27, @Sau_Saufi for helping me create this tool.
+This tool is not traceable or trackable it is fully online and offline search their countries and their service provider by this tool. Thanks to Groups in telegram and users, K0lzSec, Ducky.Hax, @Lapsus27, @Sau_Saufi for helping me create this tool.
 And Enjoy Using The Tool.
